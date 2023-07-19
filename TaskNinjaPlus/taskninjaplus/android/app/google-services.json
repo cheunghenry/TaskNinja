@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "695133719561",
+    "project_id": "taskninjaplus",
+    "storage_bucket": "taskninjaplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695133719561:android:c3592e125a8db43354bcd8",
+        "android_client_info": {
+          "package_name": "com.example.taskninjaplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695133719561-35022nvqps1du0b38l9tb26r6u4b42a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskninjaplus",
+            "certificate_hash": "301e644be8e15481b0726156a097c99b839010b8"
+          }
+        },
+        {
+          "client_id": "695133719561-5b09mq3cnmihomkqi2v5l345td783sgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChC_nrMWzxpPcZ_N8IKJs5dtDrZYkz2co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695133719561-5b09mq3cnmihomkqi2v5l345td783sgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
